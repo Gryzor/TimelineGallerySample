@@ -4,15 +4,15 @@ Timeline Gallery Sample
 This Gallery is based upon EcoGallery which is in turn based upon the original Google's Gallery.
 As such, it's not really a good idea to use this.
 
-This version should crash less, should recycle views (thanks to [EcoGallery][https://github.com/falnatsheh/EcoGallery]) and can smoothly scroll around.
+This version should crash less, should recycle views (thanks to [EcoGallery](https://github.com/falnatsheh/EcoGallery) and can smoothly scroll around.
 
 Take a look at the sample, there isn't really anything fancy going on here. 
 
 As a Perk I have added two dependencies that I use very often.
 
-1- [Picasso] [https://github.com/square/picasso]: To load Images the right way.
+* [Picasso](https://github.com/square/picasso): To load Images the right way.
 
-2- [PullToRefresh] [https://github.com/chrisbanes/ActionBar-PullToRefresh]: to scroll back to the beginning.
+* [PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh): to scroll back to the beginning.
 
 The app has been created in Android Studio using Gradle so adding the dependencies was just "a one liner". 
 
