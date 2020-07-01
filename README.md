@@ -94,6 +94,5 @@ And the [Fragment layout](https://github.com/Gryzor/TimelineGallerySample/blob/m
     
     
 ##Contact: 
-Martin Marconcini - marconcini@gmail.com
-
+Martin Marconcini - martin@marconcini.dev
 
